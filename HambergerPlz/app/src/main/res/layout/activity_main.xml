@@ -28,7 +28,6 @@
         android:layout_height="wrap_content"
         android:text="Start"
         android:id="@+id/startBtn"
-        android:onClick="changeActivity"
         android:layout_above="@+id/optionBtn"
         android:layout_centerHorizontal="true" />
 </RelativeLayout>

@@ -13,6 +13,5 @@
         android:id="@+id/kitchenBtn"
         android:layout_alignParentTop="true"
         android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:onClick="chaneActivity2Kitchen"/>
+        android:layout_alignParentEnd="true"/>
 </RelativeLayout>
